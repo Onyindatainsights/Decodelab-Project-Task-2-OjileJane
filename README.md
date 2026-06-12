@@ -16,14 +16,14 @@ The dataset contains information about:
 - Order Status
 
 ## Key Analysis Performed
-1)Retrieved and explored data using SELECT queries.
-2)Filtered records with WHERE conditions.
-3)Sorted data using ORDER BY.
-4)Grouped data by categories using GROUP BY.
-5)Calculated totals using COUNT() and SUM().
-6)Determined averages using AVG().
-7)Identified top-performing products and sales trends.
-8)Generated insights to evaluate overall business performance.
+1. Retrieved and explored data using **SELECT** queries.
+2. Filtered records with **WHERE** conditions.
+3. Sorted data using **ORDER BY**.
+4. Grouped data by categories using **GROUP BY**.
+5. Calculated totals using **COUNT()** and **SUM()** functions.
+6. Determined averages using **AVG()** functions.
+7. Identified top-performing products and sales trends.
+8. Generated insights to evaluate overall business performance.
 
 ## How to Run the Project
 1. Open MySQL Workbench.
